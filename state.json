@@ -1,6 +1,6 @@
 {
- "BTCUSDT|1h": 1,
- "ETHUSDT|1h": 1,
+ "BTCUSDT|1h": 0,
+ "ETHUSDT|1h": 0,
  "SOLUSDT|1h": 0,
  "XRPUSDT|1h": 0,
  "BNBUSDT|1h": 0,
@@ -20,6 +20,6 @@
  "APTUSDT|1h": 0,
  "ARBUSDT|1h": 0,
  "EUR/USD|1h": 0,
- "GBP/USD|1h": 0,
+ "GBP/USD|1h": -1,
  "XAU/USD|1h": 0
 }
